@@ -2,10 +2,11 @@ package fpgo_test
 
 import (
 	"fmt"
-	"fpgo"
 	"strconv"
 	"strings"
 	"testing"
+
+	"github.com/p9595jh/fpgo"
 )
 
 func TestPipe(t *testing.T) {
