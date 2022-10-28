@@ -119,3 +119,13 @@ stringArray := fpgo.New([]int{1, 2, 3}).
                     }).V.([]string)
 fmt.Println(stringArray) // [No.3 No.2 No.1]
 ```
+
+## How to use
+
+```
+go get github.com/p9595jh/fpgo
+```
+
+```
+import "github.com/p9595jh/fpgo"
+```
